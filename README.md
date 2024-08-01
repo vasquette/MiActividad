@@ -1,8 +1,8 @@
 (Espacio para los badges de MATLAB Online y File Exchange)
 
-# (Adicione aquí el Titulo de la Actividad de Enseñanza)
+# Sistemas de segundo orden.
 
-## Autor
+## Alexander Vasco Orozco - Docente Institución Universitaria EAM
 Adicione su nombre y afiliación
 
 ## Resumen de la actividad
@@ -12,7 +12,7 @@ Asegúrese de incluir palabras clave para ayudar otros a encontrar sus materiale
 ## Contexto o pre-requisitos
 Este texto debería ayudar a otros docentes a comprender las situaciones de enseñanza para las cuales esta actividad es apropiada.
 
-## Asignaturas o departmento donde se puede usar la Actividad
+## Sistemas Dinamicos
 
 ## Notas para los Educadores usando la Actividad
 Esta sección debe incluir notas y consejos para los instructores que podrían utilizar la actividad.
