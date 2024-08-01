@@ -3,24 +3,13 @@
 # Sistemas de segundo orden.
 
 ## Alexander Vasco Orozco - Docente Institución Universitaria EAM
-Adicione su nombre y afiliación
 
-## Resumen de la actividad
-Por favor, proporcione una breve descripción de su actividad o tarea y sus resultados. 
-Asegúrese de incluir palabras clave para ayudar otros a encontrar sus materiales utilizando nuestras funciones de búsqueda/navegación.
 
-## Contexto o pre-requisitos
-Este texto debería ayudar a otros docentes a comprender las situaciones de enseñanza para las cuales esta actividad es apropiada.
+## Resumen de la actividad: Generación y comparación de sistemas dinámicos de segundo orden.
 
-## Sistemas Dinamicos
+## El usuario debe conocer los conceptos básicos de funciones de transferencia, sistemas de segundo orden y programación básica de Matlab.
 
-## Notas para los Educadores usando la Actividad
-Esta sección debe incluir notas y consejos para los instructores que podrían utilizar la actividad.
+## Evaluación: El script contiene una actividad de análisis de resultados por parte del estudiante.
 
-## Evaluación
-Describe brevemente cómo determinas si los estudiantes han alcanzado los objetivos de esta tarea o actividad.
-O si la actividad es exploratoria
+## Recursos adicionales: puede visitar https://controlautomaticoeducacion.com/control-realimentado/sistemas-de-segundo-orden/
 
-## Recursos adicionales
-Esta sección debe incluir referencias y enlaces a recursos en línea que discutan la actividad específica o que apoyen a los docentes
-y/o estudiantes que utilicen la actividad.
